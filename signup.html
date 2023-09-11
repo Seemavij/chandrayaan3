@@ -8,17 +8,27 @@
 
     <!-- Stylesheet -->
     <link href="index.css" rel="stylesheet" type="text/css">
+    <style>
+    body {
+      background-image: url('assets/images/chandrayaan-3-7.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+    </style>
 </head>
+
 
 <body>
     <header>
         <a href="index.html">
             <h2 id="logo">Isro</h2>
-            <img src ="assets/images/chandrayaan-3-7.jpg" class="signup-form" alt=""> 
+            
+            
                 
         </a>
         <nav>
-            <ul id="menu">
+                    <ul id="menu">
                 <li>
                     <a class="active" href="signup.html">Sign Up</a>
                 </li>
@@ -34,6 +44,7 @@
     <section class="form-section">
                 
         <form method ="Post" action="https://formdump.codeinstitute.net/" class="signup-form">
+        
             <h2>Let's get you signed up!</h2>
             <label for ="fname">First Name</label>
             <input id ="fname" name="first_name" type="text" required>
@@ -53,7 +64,7 @@
             <input type ="radio" id="Isro-rover-weight" name="running_preference" value="Isro-rover-weight" required>
             
             <input class="join-button" type="submit" value="Let's open!">
-        
+       
         </form>
     </section>
     <footer>
