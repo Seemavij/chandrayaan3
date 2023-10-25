@@ -25,3 +25,6 @@ GALLERY Testing
 ####
 CSS Testing
 ![css](/assets/images/css.testing.png)
+####
+Lighthouse Testing
+![lighthouse](/assets/images/lighthouse%20testing.png)
