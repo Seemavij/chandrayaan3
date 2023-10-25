@@ -16,4 +16,7 @@ As a mobile device user, I want the Website to be mobile-friendly, so I can use 
 ####
 HTML Testing
 ![html](/assets/images/html%20testing.png)
+####
+SIGNUP Testing
+![signup](/assets/images/sign%20up%20testing.png)
 
