@@ -5,7 +5,6 @@ First Time Visitor Goals:
 As a First Time Visitor, I want to easily understand the main purpose of the site.
 As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
 User Stories :
-First Time Visitor Goals:
 As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the Chamdrayaan-3 project.
 As a First Time Visitor, I want to quickly acces the website so I can start Using.
 As a first-time visitor, I want to understand the purpose of the Website, so I can use it properly.
@@ -14,4 +13,7 @@ As a user of the Website, I want to see what filters are currently applied on ea
 As a user of the Website, I want to be able to reset applied filters for each chart, so I can switch filters I'm not currently interested in.
 As a mobile device user, I want the Website to be mobile-friendly, so I can use it on my tablet or smartphone to visit it.
 
+####
+HTML Testing
+![html](/assets/images/html%20testing.png)
 
