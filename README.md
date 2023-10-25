@@ -22,3 +22,6 @@ SIGNUP Testing
 ####
 GALLERY Testing
 ![gallery](/assets/images/gallery%20testing.png)
+####
+CSS Testing
+![css](/assets/images/css.testing.png)
