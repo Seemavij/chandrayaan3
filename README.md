@@ -15,16 +15,16 @@ As a mobile device user, I want the Website to be mobile-friendly, so I can use 
 
 ####
 HTML Testing
-![html](assets/images/html-testing.png)
+![html]
 ####
 SIGNUP Testing
-![signup](assets/images/signup-testing.png)
+![signup]
 ####
 GALLERY Testing
-![gallery](assets/images/gallery-testing.png)
+![gallery]
 ####
 CSS Testing
-![css](assets/images/css-testing.png)
+![css]
 ####
 Lighthouse Testing
-![lighthouse](assets/images/lighthouse-testing.png)
+![lighthouse]
