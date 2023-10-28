@@ -27,4 +27,4 @@ CSS Testing
 ![css](assets/images/css-testing.png)
 ####
 Lighthouse Testing
-![lighthouse]
+![lighthouse](assets/images/lighthouse-testing.png)
