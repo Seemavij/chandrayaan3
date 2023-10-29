@@ -15,19 +15,19 @@ As a mobile device user, I want the Website to be mobile-friendly, so I can use 
 ####
 Validator Testing :
 ####
-HTML Testing
+HTML Testing :
 ![html](assets/images/html-testing.png)
 ####
-SIGNUP Testing
+SIGNUP Testing :
 ![signup](assets/images/signup-testing.png)
 ####
-GALLERY Testing
+GALLERY Testing :
 ![gallery](assets/images/gallery-testing.png)
 ####
-CSS Testing
+CSS Testing :
 ![css](assets/images/css-testing.png)
 ####
-Lighthouse Testing
+Lighthouse Testing :
 ![lighthouse](assets/images/lighthouse-testing.png)
 ####
 * Technologies used :
@@ -82,7 +82,15 @@ Alternatively, if you use Gitpod, you can click here, which will start the Gitpo
 ####
 Media : 
 * Google Fonts
+* Roboto
+* Designed by Christian Robertson
+* Whereas disregard and contempt for human rights have resulted
+####
 * Favicon
+* ![Favicon image](assets/images/favicon.jpg)
+####
+Cooler :
+![image](assets/images/palette.png)
 ####
 Tools
 EzGif was used to resize GIF images.
