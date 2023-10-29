@@ -43,6 +43,8 @@ Testing :
 * I confirmed that the header and the footer are displayed correctly
 * I confirmed that all external links are working and opening in a new tab
 * I confirmed that the Website is responsive and displayed correctly on all standard screen sizes
+* Image on diffrent devices.
+* ![Testing on diffrent devices](assets/images/responsive-test.png)
 ####
 * Features :
 * Logo Bar
@@ -90,7 +92,7 @@ Media :
 * ![Favicon image](assets/images/favicon.jpg)
 ####
 Cooler :
-![image](assets/images/palette.png)
+![Palette image](assets/images/palette.png)
 ####
 Tools
 EzGif was used to resize GIF images.
