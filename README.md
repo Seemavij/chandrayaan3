@@ -12,7 +12,8 @@ As a first-time visitor, I want to see what technologies have been used to creat
 As a user of the Website, I want to see what filters are currently applied on each chart, so I can analyze visualized data correctly.
 As a user of the Website, I want to be able to reset applied filters for each chart, so I can switch filters I'm not currently interested in.
 As a mobile device user, I want the Website to be mobile-friendly, so I can use it on my tablet or smartphone to visit it.
-
+####
+Validator Testing :
 ####
 HTML Testing
 ![html](assets/images/html-testing.png)
@@ -37,7 +38,7 @@ Lighthouse Testing
 * User stories
 ####
 Testing :
-* I tested the Website in different browsers: Chrome, Firefox, Opera.
+* I tested the Website in different browsers: Chrome, Firefox, Edge.
 * I confirmed that gallery and signup working correctly.
 * I confirmed that the header and the footer are displayed correctly
 * I confirmed that all external links are working and opening in a new tab
@@ -47,6 +48,8 @@ Testing :
 * Logo Bar
 * Logo
 ![logo](assets/images/isro-logo.jpg)
+####
+On Website there is a Favicon Image.
 ####
 Homepage :
 * On Homepage image displayed.
@@ -61,5 +64,33 @@ Gallery :
 ####
 SignUp :
 On Signup page its displayed image and on the top its a signup page.
-Note :Images are dark because its on Moon fourteen days there is a light and fourteen days dark. When Rover land on Moon it was dark .
+Note : Images are dark because its on Moon fourteen days there is a light and fourteen days dark. When Rover land on Moon it was dark .
 ####
+Deployment :
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+* In the GitHub repository, navigate to the Settings tab and then choose pages in the left panel.
+* From the source section drop-down menu, select the Main Branch, then click "Save".
+* The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+* The live link can be found here
+####
+Local Deployment :
+In order to make a local copy of this project, you can clone it. In your IDE Terminal, type the following command to clone my repository:
+
+git clone : https://github.com/Seemavij/chandrayaan3.git
+
+Alternatively, if you use Gitpod, you can click here, which will start the Gitpod workspace for you.
+####
+Media : 
+* Google Fonts
+* Favicon
+####
+Tools
+EzGif was used to resize GIF images.
+cooler was used to create the color palette.
+mockupGen was used for responsive mockup png.
+image optimizer was used to resize images.
+
+####
+Acknowledgments
+* Code Institute For the Code Institute course material in html and CSS and for the Slack community members for their support and help.
+* Aleksei Konovalov my Code Institue tutor who inspired me to push myself further.
