@@ -53,7 +53,7 @@ On Website there is a Favicon Image.
 ####
 Homepage :
 * On Homepage image displayed.
-* On Homepage information Provide.
+* On Homepage information Provided.
 * On Homepage Logo Shows.
 * On Homepage address and there othere information showed.
 * On Homepage shows all Gallery, Signup page.
