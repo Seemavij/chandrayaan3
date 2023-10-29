@@ -87,7 +87,7 @@ Media :
 Tools
 EzGif was used to resize GIF images.
 cooler was used to create the color palette.
-mockupGen was used for responsive mockup png.
+am I responsive was used for responsive mockup png.
 image optimizer was used to resize images.
 
 ####
