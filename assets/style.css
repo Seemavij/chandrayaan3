@@ -102,7 +102,7 @@ header {
 #cover-image {
     height: 550px;
     width: 100%;
-    background-image: url("/assets/images/chandrayaan-3.13.png")center center/cover;
+    background:url("../assets/images/chandrayaan-3-13.png")center center/cover;
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
