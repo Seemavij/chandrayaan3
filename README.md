@@ -46,7 +46,7 @@ Testing :
 * Image on diffrent devices.
 * ![Testing on diffrent devices](assets/images/responsive-test.png)
 ####
-![Flow Chart](assets/images/chart.png)
+![Flow Chart](assets/images/flow-chart.png)
 ####
 * Features :
 * Logo Bar
