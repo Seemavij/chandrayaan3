@@ -101,7 +101,7 @@ EzGif was used to resize GIF images.
 cooler was used to create the color palette.
 am I responsive was used for responsive mockup png.
 image optimizer was used to resize images.
-
+Balsamiq was used for flowchart.
 ####
 Acknowledgments
 * Code Institute For the Code Institute course material in html and CSS and for the Slack community members for their support and help.
